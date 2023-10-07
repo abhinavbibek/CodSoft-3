@@ -12,3 +12,7 @@ The Password Generator project creates strong and random passwords based on user
    - Specify the desired length of the password
    - Generate a password of the specified length
    - View the generated password
+
+## Author
+Bibek Bhandari
+GitHub:https://github.com/abhinavbibek
